@@ -1,1 +1,1 @@
-echo "Изменение из branch2" > 1.txt
+Изменение из branch3
